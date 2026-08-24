@@ -198,6 +198,8 @@ CREATE TABLE Table_Name (
 **Output:**
 <img width="1237" height="802" alt="image" src="https://github.com/user-attachments/assets/c2d8027b-76b1-4f21-b293-1755e5201849" />
 
+<img width="1497" height="91" alt="image" src="https://github.com/user-attachments/assets/b387fd12-e8ab-4fb0-ae91-4840d3971757" />
+
 
 
 ## RESULT
