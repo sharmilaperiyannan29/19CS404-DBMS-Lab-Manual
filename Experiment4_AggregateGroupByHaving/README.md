@@ -118,6 +118,7 @@ HAVING condition;
 <img width="1017" height="837" alt="image" src="https://github.com/user-attachments/assets/46009897-f5d5-4951-82d5-ec91c73be080" />
 
 **Question 10**
+
 <img width="1225" height="550" alt="image" src="https://github.com/user-attachments/assets/ce52a265-d148-42bf-beb0-4af07667780c" />
 
 
