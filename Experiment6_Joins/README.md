@@ -142,6 +142,8 @@ ON table1.column = table2.column;
 <img width="1267" height="822" alt="image" src="https://github.com/user-attachments/assets/9c4ef2c4-d5cf-4ab4-97af-c125bb7bb639" />
 
 
+<img width="1347" height="82" alt="image" src="https://github.com/user-attachments/assets/28698cca-37c2-44c2-960e-35b3b94a9c4b" />
+
 
 ## RESULT
 Thus, the SQL queries to implement different types of joins have been executed successfully.
