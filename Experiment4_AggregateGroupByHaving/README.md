@@ -52,7 +52,6 @@ HAVING condition;
 
 <img width="1020" height="836" alt="image" src="https://github.com/user-attachments/assets/2c6e2923-9a93-46f2-8321-961a513190ee" />
 
-
 **Question 3**
 
 <img width="937" height="586" alt="image" src="https://github.com/user-attachments/assets/48e8c648-13aa-4dc7-a376-f6a9af637840" />
@@ -85,26 +84,25 @@ HAVING condition;
 
 <img width="710" height="832" alt="image" src="https://github.com/user-attachments/assets/c07ad308-2e06-4fd3-bf59-fddceeda03d6" />
 
-
 **Question 7**
-<img width="780" height="460" alt="image" src="https://github.com/user-attachments/assets/c4b3074f-a284-475a-94ff-6251ee81c05d" />
 
+<img width="780" height="460" alt="image" src="https://github.com/user-attachments/assets/c4b3074f-a284-475a-94ff-6251ee81c05d" />
 
 **Output:**
 
 <img width="507" height="781" alt="image" src="https://github.com/user-attachments/assets/907a9390-312c-46f1-9c79-2e1c23325818" />
 
-
 **Question 8**
+
 <img width="1217" height="411" alt="image" src="https://github.com/user-attachments/assets/b0d22290-ce5b-4683-8833-ee892be603cc" />
 
 **Output:**
+
 <img width="781" height="822" alt="image" src="https://github.com/user-attachments/assets/ef7faae0-fb27-4160-95e3-6772d14bec6b" />
 
 
 **Question 9**
 <img width="1222" height="455" alt="image" src="https://github.com/user-attachments/assets/6b54eff7-48d2-4df6-8a0b-9b6b64ba3d4f" />
-
 
 **Output:**
 
@@ -114,10 +112,10 @@ HAVING condition;
 
 <img width="1225" height="550" alt="image" src="https://github.com/user-attachments/assets/ce52a265-d148-42bf-beb0-4af07667780c" />
 
-
 **Output:**
 
 <img width="480" height="822" alt="image" src="https://github.com/user-attachments/assets/1be9d914-3c93-42a5-a72c-c779f740859f" />
+
 
 <img width="1347" height="142" alt="image" src="https://github.com/user-attachments/assets/92b6b821-39bc-4a12-96b8-5ce58b9da9e4" />
 
