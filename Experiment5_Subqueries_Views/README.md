@@ -58,15 +58,12 @@ DROP VIEW view_name;
 <img width="1042" height="552" alt="image" src="https://github.com/user-attachments/assets/d9b7d762-aea3-45f6-b99b-5de6490004ef" />
 
 
-
 **Output:**
 
 <img width="1267" height="627" alt="image" src="https://github.com/user-attachments/assets/46340deb-76c4-4562-9e8d-10cab437b374" />
 
-
 **Question 4**
 <img width="1272" height="571" alt="image" src="https://github.com/user-attachments/assets/76e83183-1667-4e7c-910f-1a136bbcbed1" />
-
 
 
 **Output:**
@@ -81,49 +78,47 @@ DROP VIEW view_name;
 
 <img width="1207" height="805" alt="image" src="https://github.com/user-attachments/assets/e32ba52d-dad2-4200-be8c-0ac41889316c" />
 
-
 **Question 6**
+
 <img width="1192" height="417" alt="image" src="https://github.com/user-attachments/assets/928fe2f9-29f7-49e6-a19c-902869397ece" />
-
-
 
 **Output:**
 
 <img width="962" height="767" alt="image" src="https://github.com/user-attachments/assets/20002846-bc33-40ca-a664-58f1fd2c56c1" />
 
-
 **Question 7**
+
 <img width="1037" height="522" alt="image" src="https://github.com/user-attachments/assets/432b3432-9a57-457b-8b73-b2a90b246279" />
 
 **Output:**
+
 <img width="557" height="771" alt="image" src="https://github.com/user-attachments/assets/e26c2d64-fff2-4dab-a6ef-8e222e3c9763" />
 
-
 **Question 8**
-<img width="925" height="452" alt="image" src="https://github.com/user-attachments/assets/553322c3-f5f2-433f-a856-2aaf5c733fe7" />
 
+<img width="925" height="452" alt="image" src="https://github.com/user-attachments/assets/553322c3-f5f2-433f-a856-2aaf5c733fe7" />
 
 **Output:**
 
 <img width="862" height="822" alt="image" src="https://github.com/user-attachments/assets/d04c302e-ecb0-4c3c-b68c-a5650295144a" />
 
-
 **Question 9**
-<img width="1057" height="505" alt="image" src="https://github.com/user-attachments/assets/df6640c0-e559-4e16-af37-c424063f9d41" />
 
+<img width="1057" height="505" alt="image" src="https://github.com/user-attachments/assets/df6640c0-e559-4e16-af37-c424063f9d41" />
 
 **Output:**
 
 <img width="846" height="782" alt="image" src="https://github.com/user-attachments/assets/9876b190-e73c-41d1-b16f-59191034ae8f" />
 
 **Question 10**
-<img width="1286" height="712" alt="image" src="https://github.com/user-attachments/assets/5ba21429-f325-448b-b816-9924c3409423" />
 
+<img width="1286" height="712" alt="image" src="https://github.com/user-attachments/assets/5ba21429-f325-448b-b816-9924c3409423" />
 
 **Output:**
 
 <img width="1115" height="800" alt="image" src="https://github.com/user-attachments/assets/fa72c3de-b34b-4edc-97a9-02b60e67ab21" />
 
+<img width="1342" height="87" alt="image" src="https://github.com/user-attachments/assets/2eb6f3ab-291b-4dd5-92b4-51e611eadd17" />
 
 
 ## RESULT
